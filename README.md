@@ -1,2 +1,1 @@
-# CP
-Codes from different Online Judges and constests.
+# Competetive Programming Resources
